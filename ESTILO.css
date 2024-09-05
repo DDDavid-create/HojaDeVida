@@ -1,0 +1,67 @@
+body{
+    background-color: #46474d;
+}
+
+.contenedorFoto{
+    background-color: whitesmoke;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    height: auto;
+}
+
+.contenedorInformacion{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+}
+
+.contenedorInformacionPersonal{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    height: 340px;
+}
+
+.contenedorEstudios{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+
+.contenedorHabilidades{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.contenedorIdiomas{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.contenedorExperiencia{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
